@@ -344,7 +344,9 @@ a {
 }
 
 .hero-section {
-  background-color: var(--accent-color--a-500);
+  background-image: url('https://i.postimg.cc/zGSmMVjy/raspandoelpegao-Cinematic-abstract-artwork-symbolizing-neural-n-b201c604-d542-4604-bffd-94d0f425ceab.png');
+  background-size: cover;
+  background-position: center;
   border-radius: 20px;
   width: 100%;
   height: 980px;
