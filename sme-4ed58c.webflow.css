@@ -1,5 +1,5 @@
 :root {
-  --_typography---font-family--font-primary: Boldonse, sans-serif;
+  --_typography---font-family--font-primary: 'Bebas Neue', sans-serif;
   --_sizes---section--padding-horizontal: 60px;
   --_sizes---container--max-width: 1400px;
   --primary-color--p-700: #4f19eb;
@@ -14,7 +14,7 @@
   --neutral-color--n-100: white;
   --_typography---button--btn1: 24px;
   --neutral-color--n-300: #dfdfdf;
-  --_typography---font-family--font-secondary: Sora, sans-serif;
+  --_typography---font-family--font-secondary: 'Bebas Neue', sans-serif;
   --_typography---heading--h3: 28px;
   --_typography---heading--h6: 18px;
   --_typography---bodytext--b1: 16px;
@@ -104,7 +104,7 @@
 
 body {
   color: #333;
-  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'Bebas Neue', sans-serif;
   font-size: 14px;
   line-height: 20px;
 }
