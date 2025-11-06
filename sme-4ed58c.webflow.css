@@ -252,7 +252,7 @@ a {
   color: #000;
   font-size: var(--_typography---button--btn4);
   text-transform: uppercase;
-  background-color: #ee01cc;
+  background-color: #ee01cc !important;
   border-radius: 0;
   justify-content: space-between;
   align-items: stretch;
