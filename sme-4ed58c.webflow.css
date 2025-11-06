@@ -554,7 +554,7 @@ a {
 }
 
 .hero-corner-3 {
-  box-shadow: -20px -20px 0 20px var(--accent-color--a-500);
+  box-shadow: -20px -20px 0 20px #000;
   background-color: #000;
   border-top-left-radius: 20px;
   width: 20px;
