@@ -707,9 +707,9 @@ a {
 }
 
 .about-item._01 {
-  background-image: none;
-  background-position: 0 0;
-  background-size: auto;
+  background-image: url('https://i.postimg.cc/zGSmMVjy/raspandoelpegao-Cinematic-abstract-artwork-symbolizing-neural-n-b201c604-d542-4604-bffd-94d0f425ceab.png');
+  background-position: center;
+  background-size: cover;
   transform: none;
 }
 
